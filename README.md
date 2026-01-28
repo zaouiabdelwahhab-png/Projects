@@ -13,7 +13,7 @@ Welcome to my personal project collection! This repository serves as a hub for a
 
 ## 📂 Featured Projects
 
-### 1. [Project Name One]
+### 1. [Loops]
 * **Description:** This will help you to learn and develop your skills on algorithm by practising.
 * **Status:** 🚧 In Progress 
 
